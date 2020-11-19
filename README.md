@@ -20,3 +20,6 @@ Designed and taught full elementary curriculum, computer skills and coding conce
 
 ### Arkansas State University
 Master of Science in Education
+
+### Drake University
+Bachelor of Science in Education
